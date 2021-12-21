@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+.img {
+    width: 50PX;
+    height:25PX;
+    border: solid green 1px;
+    background-color: green;
+    margin: 2px 4px 2px 4px;
+    border-radius: 5px;
+}
+
+header{
+    border: solid black 1px;
+    background-color: black;
+    margin: 0px; border-radius: 5px;
+}
+
+.l{
+    border: solid green 1px;
+    background-color: green;
+    margin: 10px 20px 20px 20px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    padding: 2px 4px 2px 4px;
+    text-align: center;
+}
+
+.d{
+    border: 1px green solid; 
+    background-color: green; 
+    border-radius: 5px; 
+    text-align: center; 
+    margin: 30px
+}
+
+footer{
+    color:black;
+    border: 1px solid green;
+    background-color: green;
+    
+}
